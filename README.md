@@ -25,7 +25,7 @@ ________________________________________________________________________________
 * Open a terminal or command prompt and navigate to the directory where the passGen.java file is located.
 * Compile the Java file using command :javac passGen.java
 
-##**Security Note**
+## **Security Note**
 While this password generator aims to create strong and random passwords, it is essential to exercise caution when handling sensitive information. Always ensure that your generated passwords are stored securely and not exposed in an unsafe manner.
 
 ## **Contributing**
