@@ -5,6 +5,7 @@ This is a simple password generator written in Java. It generates random passwor
 ## **Features**
 
 **Takes length:** Users can input the length of the password they want to generate.
+
 **Password:** Users can view the generated password on the screen.
 ____________________________________________________________________________________________________________________________________________________________________
 
